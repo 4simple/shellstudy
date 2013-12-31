@@ -1,0 +1,2 @@
+./write.sh: line 13: errcommand: command not found
+./write.sh: line 14: abcd: command not found

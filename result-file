@@ -1,0 +1,42 @@
+-rw-r--r--  1 wondger  staff     0 12 27 20:02 se.sh
+-rw-r--r--  1 wondger  staff     0 12 31 23:15 list.txt
+-rw-r--r--  1 wondger  staff    21 12 31 00:01 message.txt
+-rw-r--r--  1 wondger  staff    35 12 27 16:34 README.md
+-rw-r--r--  1 wondger  staff    86 12 31 23:15 command.log
+-rw-r--r--  1 wondger  staff   112 12 31 22:58 err.txt
+-rw-r--r--  1 wondger  staff  1074 12 27 16:34 LICENSE
+-rwxr-xr-x  1 wondger  staff    46 12 27 19:30 now.sh
+-rwxr-xr-x  1 wondger  staff    69 12 31 17:55 uptime.sh
+-rwxr-xr-x  1 wondger  staff    77 12 25 23:05 symbol.sh
+-rwxr-xr-x  1 wondger  staff   117 12 25 23:25 heredoc.sh
+-rwxr-xr-x  1 wondger  staff   131 12 25 22:33 select.sh
+-rwxr-xr-x  1 wondger  staff   137 12 25 22:56 loop.sh
+-rwxr-xr-x  1 wondger  staff   209 12 25 23:41 fun.sh
+-rwxr-xr-x  1 wondger  staff   316 12 25 22:16 case.sh
+-rwxr-xr-x  1 wondger  staff   449 12 27 19:26 base.sh
+-rwxr-xr-x  1 wondger  staff   611 12 31 00:02 user.sh
+-rwxr-xr-x  1 wondger  staff   843 12 27 20:03 date.sh
+-rwxr-xr-x  1 wondger  staff  1032 12 31 23:15 write.sh
+./write.sh: line 13: errcommand: command not found
+./write.sh: line 14: abcd: command not found
+LICENSE
+README.md
+base.sh
+case.sh
+command.log
+date.sh
+err.txt
+fun.sh
+hello, wall message.
+heredoc.sh
+list.txt
+loop.sh
+message.txt
+now.sh
+se.sh
+select.sh
+symbol.sh
+total 136
+uptime.sh
+user.sh
+write.sh
